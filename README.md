@@ -35,9 +35,9 @@ The final output was intended to support strategic planning, performance reviews
 
 ---
 
-## ✔️ Project Workflow & Methodology
+## Project Workflow & Methodology
 
-### 1️⃣ Concept Review & Planning
+### 1.Concept Review & Planning
 Before starting the analysis, I revisited key Tableau and data visualization concepts, including:
 
 - Data preparation and cleaning techniques  
@@ -51,7 +51,7 @@ This step ensured a structured and efficient project execution.
 
 ---
 
-### 2️⃣ Data Exploration & Preparation
+### 2.Data Exploration & Preparation
 The dataset was examined to understand its structure, variables, and quality. This included:
 
 - Reviewing regional, sales, product, and date-related fields  
@@ -63,7 +63,7 @@ Clean and well-structured data was critical to producing reliable insights.
 
 ---
 
-### 3️⃣ Regional Sales Analysis
+### 3.Regional Sales Analysis
 Using Tableau, I conducted a detailed analysis by:
 
 - Filtering the dataset to focus on the two selected regions  
@@ -76,7 +76,7 @@ This analysis helped uncover meaningful differences and similarities between the
 
 ---
 
-### 4️⃣ Dashboard Design & Development
+### 4.Dashboard Design & Development
 An interactive Tableau dashboard was created with a clear and logical layout, featuring:
 
 - Line charts to display monthly or quarterly sales trends  
@@ -89,7 +89,7 @@ The dashboard design prioritized clarity, usability, and decision support.
 
 ---
 
-### 5️⃣ Insight Interpretation & Storytelling
+### 5.Insight Interpretation & Storytelling
 A narrative was developed to explain the analytical findings, focusing on:
 
 - Key performance differences between regions  
@@ -133,9 +133,4 @@ This project demonstrates my ability to apply **Tableau, analytical thinking, an
 
 ---
 
-## 📎 Optional Additions
-- 📄 Project Documentation (PDF / DOCX)  
-- 📊 Dashboard Screenshots  
-- 🔗 Tableau Public Dashboard Link  
-- 💻 Source Data (Sanitized)  
 
